@@ -10,9 +10,9 @@ Rules of BS!
   
 5. Going clockwise, each player takes turns announcing and placing the cards that are one rank higher than the cards of the previous turn.
 
-6. If the players don't have a card of the rank, they have to place random cards and bluff. 
+6. If any of the players do not have a card of the neccessary rank, they have to place random cards and bluff. 
 
-7. If any of the players don't believe the annoucment they can call out "BS!"
+7. If any of the players don't believe the call, they can call out "BS!"
 
 8. If anyone calls "BS" the player who placed the cards must turn them over.
 
@@ -20,6 +20,6 @@ Rules of BS!
 
 10. If the player isn't bluffing, the person who called "BS" must pick up all of the cards on the center of the table.
 
-11. When the rank to play reaches King, it goes back to Aces and the numbers start again.
+11. When the rank to play reaches King, it restarts back to the aces.
 
 12. Rules 5-11 repeat until one of the players gets rid of all their cards.
