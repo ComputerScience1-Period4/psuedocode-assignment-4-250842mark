@@ -1,0 +1,25 @@
+Rules of BS!
+
+1. 3 or more players and a regular deck without Jokers are needed.
+
+2. Deal the cards evenly to each player in the round. If there are remainders place them in the center of the table.
+
+3. The player who is left of the dealer starts by placing an "Ace" card on the center of the table.
+
+4. If the player to the left of the dealer doesn't have an ace, he has to place a card anyway.
+  
+5. Going clockwise, each player takes turns announcing and placing the cards that are one rank higher than the cards of the previous turn.
+
+6. If the players don't have a card of the rank, they have to place random cards and bluff. 
+
+7. If any of the players don't believe the annoucment they can call out "BS!"
+
+8. If anyone calls "BS" the player who placed the cards must turn them over.
+
+9. If the player is caught bluffing, they must pick up their cards along with all the cards on the center of the table.
+
+10. If the player isn't bluffing, the person who called "BS" must pick up all of the cards on the center of the table.
+
+11. When the rank to play reaches King, it goes back to Aces and the numbers start again.
+
+12. Rules 5-11 repeat until one of the players gets rid of all their cards.
